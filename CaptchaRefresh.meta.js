@@ -5,6 +5,6 @@
 // @include     http://*.nid.gov.ly/*
 // @downloadURL https://github.com/falcon2017/reserve/blob/master/CaptchaRefresh.user.js
 // @updateURL   https://github.com/falcon2017/reserve/blob/master/CaptchaRefresh.meta.js
-// @version     1
+// @version     1.1
 // @grant       none
 // ==/UserScript==
